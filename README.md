@@ -18,4 +18,5 @@ An plotting application of data from Covid-19 Dataset of @BrasilIO
 
 **Fonte:**
 -Secretarias de Saúde das Unidades Federativas, dados tratados por Alváro Justen github.com/@turicas e colaboradores/Brasil.IO
+
 -Brasil.IO: boletins epidemiológicos da COVID-19 por município por dia, disponível em: https://brasil.io/dataset/covid19/
